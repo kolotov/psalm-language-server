@@ -1,0 +1,1 @@
+# psalm-language-server
